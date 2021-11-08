@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj": {}
+    "c:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj": {
+    "c:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj",
+        "projectUniqueName": "c:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj",
         "projectName": "PoissonDistribution",
-        "projectPath": "C:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj",
+        "projectPath": "c:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\PoissonDistribution.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\obj\\",
+        "outputPath": "c:\\Users\\PC\\Desktop\\C# MyProjects\\MyProjects\\PoissonDistribution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
