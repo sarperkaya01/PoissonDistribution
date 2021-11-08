@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\bin\Debug\net5.0\PoissonDistribution.exe
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\bin\Debug\net5.0\PoissonDistribution.deps.json
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\bin\Debug\net5.0\PoissonDistribution.runtimeconfig.json
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\bin\Debug\net5.0\PoissonDistribution.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\bin\Debug\net5.0\PoissonDistribution.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\bin\Debug\net5.0\ref\PoissonDistribution.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\bin\Debug\net5.0\PoissonDistribution.pdb
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\ref\PoissonDistribution.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.pdb
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\PoissonDistribution\obj\Debug\net5.0\PoissonDistribution.genruntimeconfig.cache
